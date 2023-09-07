@@ -3,5 +3,3 @@
 # 引用
 ### zip
 [https://github.com/gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js)
-### vconsole
-[https://github.com/Tencent/vConsole](https://github.com/Tencent/vConsole)
